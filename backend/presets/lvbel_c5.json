@@ -1,0 +1,32 @@
+{
+  "id": "lvbel_c5",
+  "name": "Lvbel C5",
+  "emoji": "🏙️",
+  "genre": "Türkçe Drill / Trap",
+  "description": "Istanbul drill sesi. Soğuk ve hesaplı — düşük frekans ağırlığı, metalik tiz, sert kompresyon.",
+  "retune_speed": 0.2,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 70,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 11000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.0,
+    "attack_ms": 5.0,
+    "release_ms": 100.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.6,
+    "wet_level": 0.18,
+    "dry_level": 0.88,
+    "width": 0.75
+  },
+  "tags": ["türkçe", "drill", "istanbul", "soğuk", "bass"]
+}

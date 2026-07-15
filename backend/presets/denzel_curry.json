@@ -1,0 +1,32 @@
+{
+  "id": "denzel_curry",
+  "name": "Denzel Curry",
+  "emoji": "💀",
+  "genre": "Aggressive Hip-Hop / Punk Rap",
+  "description": "Denzel Curry'nin Florida patlayıcı enerjisi. Minimal auto-tune, çığlık düzeyinde presence, sert ve ezici vokal zinciri.",
+  "retune_speed": 0.06,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 3000,
+    "mid_peak_gain_db": 3.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 7.0,
+    "attack_ms": 3.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.85,
+    "wet_level": 0.1,
+    "dry_level": 0.94,
+    "width": 0.75
+  },
+  "tags": ["aggressive", "punk-rap", "florida", "raw", "patlayıcı", "global"]
+}

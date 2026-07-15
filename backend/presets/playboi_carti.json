@@ -1,0 +1,32 @@
+{
+  "id": "playboi_carti",
+  "name": "Playboi Carti",
+  "emoji": "🧛",
+  "genre": "Hip-Hop / Punk Trap",
+  "description": "Punk trap devrimcisi. Agresif ve yüksek-pitched vocal, distorted feel, chaos enerjisi.",
+  "retune_speed": 0.6,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 75,
+    "low_shelf_gain_db": 4.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 7.0,
+    "attack_ms": 3.0,
+    "release_ms": 70.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.52,
+    "wet_level": 0.25,
+    "dry_level": 0.83,
+    "width": 0.88
+  },
+  "tags": ["punk-trap", "chaos", "agresif", "high-energy", "unique"]
+}

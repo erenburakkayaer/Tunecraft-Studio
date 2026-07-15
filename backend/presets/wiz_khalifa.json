@@ -1,0 +1,37 @@
+{
+  "id": "wiz_khalifa",
+  "name": "Wiz Khalifa",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Wiz Khalifa tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.51,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 3.2,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -1.0,
+    "mid_peak_q": 0.78
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.8,
+    "attack_ms": 7.1,
+    "release_ms": 287.4
+  },
+  "reverb": {
+    "room_size": 0.31,
+    "damping": 0.75,
+    "wet_level": 0.21,
+    "dry_level": 0.79,
+    "width": 0.52
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

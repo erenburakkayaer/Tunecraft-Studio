@@ -1,0 +1,37 @@
+{
+  "id": "tyga",
+  "name": "Tyga",
+  "emoji": "🌟",
+  "genre": "Drill",
+  "description": "Tyga tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.18,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 4.9,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.2,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -0.1,
+    "mid_peak_q": 0.99
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.8,
+    "attack_ms": 18.5,
+    "release_ms": 231.9
+  },
+  "reverb": {
+    "room_size": 0.34,
+    "damping": 0.79,
+    "wet_level": 0.18,
+    "dry_level": 0.92,
+    "width": 0.89
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fivio_foreign",
+  "name": "Fivio Foreign",
+  "emoji": "🌊",
+  "genre": "NY Drill / Brooklyn",
+  "description": "Fivio Foreign'ın Brooklyn NY drill sesi. Orta-yüksek auto-tune, agresif ve melodic drill karakteri, güçlü vokal zinciri.",
+  "retune_speed": 0.58,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.0,
+    "attack_ms": 4.0,
+    "release_ms": 130.0
+  },
+  "reverb": {
+    "room_size": 0.32,
+    "damping": 0.72,
+    "wet_level": 0.18,
+    "dry_level": 0.9,
+    "width": 0.75
+  },
+  "tags": ["ny-drill", "brooklyn", "auto-tune", "agresif", "melodic", "global"]
+}

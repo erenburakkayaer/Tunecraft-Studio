@@ -1,0 +1,37 @@
+{
+  "id": "mali_green",
+  "name": "Mali Green",
+  "emoji": "⚡",
+  "genre": "Rap / Trap",
+  "description": "Mali Green tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.48,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.8,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.82
+  },
+  "compression": {
+    "threshold_db": -13.3,
+    "ratio": 5.6,
+    "attack_ms": 14.0,
+    "release_ms": 193.9
+  },
+  "reverb": {
+    "room_size": 0.68,
+    "damping": 0.89,
+    "wet_level": 0.34,
+    "dry_level": 0.76,
+    "width": 0.53
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "global"
+  ]
+}

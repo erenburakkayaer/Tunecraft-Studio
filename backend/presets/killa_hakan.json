@@ -1,0 +1,37 @@
+{
+  "id": "killa_hakan",
+  "name": "Killa Hakan",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Killa Hakan tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.23,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 5.2,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -1.9,
+    "mid_peak_q": 0.93
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 5.6,
+    "attack_ms": 22.4,
+    "release_ms": 266.5
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.59,
+    "wet_level": 0.16,
+    "dry_level": 0.83,
+    "width": 0.88
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "global"
+  ]
+}

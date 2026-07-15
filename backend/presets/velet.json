@@ -1,0 +1,32 @@
+{
+  "id": "velet",
+  "name": "Velet",
+  "emoji": "🌫️",
+  "genre": "Türkçe Trap / Duygusal",
+  "description": "Melankolik ve duygusal trap sesi. Orta-yüksek auto-tune, derin reverb, içe kapanık ambiyans.",
+  "retune_speed": 0.6,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 90,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 9500,
+    "high_shelf_gain_db": 1.0,
+    "mid_peak_hz": 600,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 3.0,
+    "attack_ms": 16.0,
+    "release_ms": 260.0
+  },
+  "reverb": {
+    "room_size": 0.55,
+    "damping": 0.45,
+    "wet_level": 0.38,
+    "dry_level": 0.72,
+    "width": 0.9
+  },
+  "tags": ["türkçe", "duygusal", "melankolik", "trap", "ambiyans"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "central_cee",
+  "name": "Central Cee",
+  "emoji": "🇬🇧",
+  "genre": "UK Rap / Drill",
+  "description": "Londra'dan gelen soğuk UK drill. Akıcı kelime oyunları, net artikülasyon, karanlık drill atmosferi.",
+  "retune_speed": 0.1,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.2,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.0,
+    "attack_ms": 6.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.65,
+    "wet_level": 0.18,
+    "dry_level": 0.88,
+    "width": 0.75
+  },
+  "tags": ["uk-drill", "londra", "akıcı", "soğuk", "net", "global"]
+}

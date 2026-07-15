@@ -1,0 +1,37 @@
+{
+  "id": "vio",
+  "name": "Vio",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Vio tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.81,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.6,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -0.4,
+    "mid_peak_q": 0.93
+  },
+  "compression": {
+    "threshold_db": -15.3,
+    "ratio": 3.3,
+    "attack_ms": 19.1,
+    "release_ms": 114.2
+  },
+  "reverb": {
+    "room_size": 0.49,
+    "damping": 0.87,
+    "wet_level": 0.41,
+    "dry_level": 0.89,
+    "width": 0.91
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

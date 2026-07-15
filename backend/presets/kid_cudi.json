@@ -1,0 +1,37 @@
+{
+  "id": "kid_cudi",
+  "name": "Kid Cudi",
+  "emoji": "🎹",
+  "genre": "Melodic / R&B",
+  "description": "Kid Cudi tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.89,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.8,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": -0.9,
+    "mid_peak_q": 0.83
+  },
+  "compression": {
+    "threshold_db": -11.8,
+    "ratio": 3.5,
+    "attack_ms": 18.0,
+    "release_ms": 195.7
+  },
+  "reverb": {
+    "room_size": 0.14,
+    "damping": 0.43,
+    "wet_level": 0.39,
+    "dry_level": 0.72,
+    "width": 0.65
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "aksan",
+  "name": "Aksan",
+  "emoji": "🌊",
+  "genre": "Melodic Trap / Türkçe Rap",
+  "description": "Aksan'ın akıcı ve atmosferik Türkçe melodic trap sesi. Orta auto-tune, dengeli reverb ve pürüzsüz vokal zinciri.",
+  "retune_speed": 0.5,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.0,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.6,
+    "wet_level": 0.25,
+    "dry_level": 0.88,
+    "width": 0.82
+  },
+  "tags": ["melodic-trap", "türkçe", "auto-tune", "smooth"]
+}

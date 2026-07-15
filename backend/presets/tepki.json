@@ -1,0 +1,32 @@
+{
+  "id": "tepki",
+  "name": "Tepki",
+  "emoji": "😤",
+  "genre": "Türkçe Trap / Agresif",
+  "description": "Şikayetçi ve sert enerji. Yüksek mid-range vurgu, keskin attack, sert ama akıcı trap tarzı.",
+  "retune_speed": 0.18,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 1800,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 5.5,
+    "attack_ms": 5.5,
+    "release_ms": 110.0
+  },
+  "reverb": {
+    "room_size": 0.22,
+    "damping": 0.72,
+    "wet_level": 0.12,
+    "dry_level": 0.9,
+    "width": 0.6
+  },
+  "tags": ["türkçe", "trap", "sert", "enerji", "agresif"]
+}

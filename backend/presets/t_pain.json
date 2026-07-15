@@ -1,0 +1,32 @@
+{
+  "id": "t_pain",
+  "name": "T-Pain",
+  "emoji": "🤖",
+  "genre": "R&B / Hip-Hop",
+  "description": "Orijinal robot sesi — tam robotik pitch lock, kuru ve keskin. Auto-Tune efektinin babası.",
+  "retune_speed": 1.0,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 5000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 1.2
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 8.0,
+    "attack_ms": 1.0,
+    "release_ms": 80.0
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.8,
+    "wet_level": 0.1,
+    "dry_level": 0.95,
+    "width": 0.5
+  },
+  "tags": ["robotic", "classic", "r&b", "tight"]
+}

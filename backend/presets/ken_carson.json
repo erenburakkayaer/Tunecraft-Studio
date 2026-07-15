@@ -1,0 +1,32 @@
+{
+  "id": "ken_carson",
+  "name": "Ken Carson",
+  "emoji": "🖤",
+  "genre": "Opium Trap / Dark Melodic",
+  "description": "Ken Carson'ın Opium karanlık melodic sesi. Ağır auto-tune, agresif ve ethereal trap, distorted vokal zinciri.",
+  "retune_speed": 0.85,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.5,
+    "attack_ms": 5.0,
+    "release_ms": 160.0
+  },
+  "reverb": {
+    "room_size": 0.5,
+    "damping": 0.4,
+    "wet_level": 0.32,
+    "dry_level": 0.88,
+    "width": 0.92
+  },
+  "tags": ["opium", "dark-melodic", "trap", "auto-tune", "ethereal", "global"]
+}

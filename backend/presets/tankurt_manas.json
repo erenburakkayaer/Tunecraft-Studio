@@ -1,0 +1,37 @@
+{
+  "id": "tankurt_manas",
+  "name": "Tankurt Manas",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Tankurt Manas tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.01,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 1.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 0.3,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.7,
+    "mid_peak_q": 0.86
+  },
+  "compression": {
+    "threshold_db": -11.4,
+    "ratio": 4.0,
+    "attack_ms": 19.1,
+    "release_ms": 176.6
+  },
+  "reverb": {
+    "room_size": 0.29,
+    "damping": 0.46,
+    "wet_level": 0.15,
+    "dry_level": 0.8,
+    "width": 0.58
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "global"
+  ]
+}

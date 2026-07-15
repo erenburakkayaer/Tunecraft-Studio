@@ -1,0 +1,32 @@
+{
+  "id": "chief_keef",
+  "name": "Chief Keef",
+  "emoji": "🔫",
+  "genre": "Chicago Drill",
+  "description": "Chief Keef'in Chicago drill'i icat eden sesi. Orta auto-tune, ağır bas, karanlık ve ikonik drill vokal zinciri.",
+  "retune_speed": 0.42,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.5,
+    "attack_ms": 5.0,
+    "release_ms": 140.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.75,
+    "wet_level": 0.18,
+    "dry_level": 0.9,
+    "width": 0.75
+  },
+  "tags": ["drill", "chicago", "bass", "dark", "global"]
+}

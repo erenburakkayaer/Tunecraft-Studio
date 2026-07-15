@@ -1,0 +1,32 @@
+{
+  "id": "uzi",
+  "name": "Uzi",
+  "emoji": "🔫",
+  "genre": "Türkçe Trap / Rap",
+  "description": "Keskin ve agresif trap vokal. Yüksek attack, derin bas boost, minimal ambiyans.",
+  "retune_speed": 0.25,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 75,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 350,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 6.5,
+    "attack_ms": 4.0,
+    "release_ms": 90.0
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.8,
+    "wet_level": 0.1,
+    "dry_level": 0.9,
+    "width": 0.5
+  },
+  "tags": ["türkçe", "trap", "agresif", "keskin", "energi"]
+}

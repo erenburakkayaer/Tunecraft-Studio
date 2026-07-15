@@ -1,0 +1,32 @@
+{
+  "id": "sagopa",
+  "name": "Sagopa Kajmer",
+  "emoji": "🌑",
+  "genre": "Türkçe Rap / Underground",
+  "description": "Hüzünlü ve derin ses. Orta frekans ağırlıklı, minimal efekt, duygusal derinlik.",
+  "retune_speed": 0.08,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": -1.0,
+    "mid_peak_hz": 800,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.6
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.0,
+    "attack_ms": 20.0,
+    "release_ms": 300.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.6,
+    "wet_level": 0.2,
+    "dry_level": 0.85,
+    "width": 0.7
+  },
+  "tags": ["türkçe", "underground", "hüzün", "derin", "lirik"]
+}

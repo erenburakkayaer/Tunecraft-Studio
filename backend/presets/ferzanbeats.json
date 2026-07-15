@@ -1,0 +1,32 @@
+{
+  "id": "ferzanbeats",
+  "name": "FerzanBeats",
+  "emoji": "🎛️",
+  "genre": "Türkçe Trap / Prodüksiyon",
+  "description": "FerzanBeats'in Türkçe trap prodüksiyon estetiği. Orta auto-tune, temiz ve dengeli miksleme, profesyonel vokal zinciri.",
+  "retune_speed": 0.38,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.5,
+    "attack_ms": 10.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.42,
+    "damping": 0.62,
+    "wet_level": 0.2,
+    "dry_level": 0.9,
+    "width": 0.88
+  },
+  "tags": ["türkçe", "trap", "prodüksiyon", "beatmaker", "modern"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "busta_rhymes",
+  "name": "Busta Rhymes",
+  "emoji": "⚡",
+  "genre": "Boom Bap / Old School",
+  "description": "Busta Rhymes'ın patlayıcı New York enerjisi. Sıfır auto-tune, yüksek presence, sert kompresyon ve güçlü dinamik vokal zinciri.",
+  "retune_speed": 0.03,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 2500,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 6.0,
+    "attack_ms": 4.0,
+    "release_ms": 150.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.8,
+    "wet_level": 0.12,
+    "dry_level": 0.92,
+    "width": 0.85
+  },
+  "tags": ["boom-bap", "old-school", "new-york", "energetic", "raw", "global"]
+}

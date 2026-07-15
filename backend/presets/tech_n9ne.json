@@ -1,0 +1,37 @@
+{
+  "id": "tech_n9ne",
+  "name": "Tech N9ne",
+  "emoji": "🎹",
+  "genre": "Melodic / R&B",
+  "description": "Tech N9ne tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.89,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 2.8,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.7,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -0.2,
+    "mid_peak_q": 0.88
+  },
+  "compression": {
+    "threshold_db": -15.2,
+    "ratio": 4.0,
+    "attack_ms": 15.3,
+    "release_ms": 156.8
+  },
+  "reverb": {
+    "room_size": 0.12,
+    "damping": 0.52,
+    "wet_level": 0.35,
+    "dry_level": 0.87,
+    "width": 0.84
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "türkçe"
+  ]
+}

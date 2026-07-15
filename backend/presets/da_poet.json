@@ -1,0 +1,32 @@
+{
+  "id": "da_poet",
+  "name": "Da Poet",
+  "emoji": "✍️",
+  "genre": "underground",
+  "description": "Şiirsel ve felsefi underground rap. Derin orta frekanslar, minimal efekt, sözlerin güçlü yapısı.",
+  "retune_speed": 0.04,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 110,
+    "low_shelf_gain_db": 1.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.8,
+    "mid_peak_hz": 900,
+    "mid_peak_gain_db": 3.2,
+    "mid_peak_q": 0.65
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 2.5,
+    "attack_ms": 22.0,
+    "release_ms": 330.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.78,
+    "wet_level": 0.09,
+    "dry_level": 0.94,
+    "width": 0.55
+  },
+  "tags": ["türkçe", "underground", "şiir", "felsefe", "derin"]
+}

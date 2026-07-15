@@ -1,0 +1,32 @@
+{
+  "id": "kanye_west",
+  "name": "Kanye West",
+  "emoji": "🌌",
+  "genre": "Hip-Hop / Experimental",
+  "description": "Kanye West'in Chicago dehasının sesi. Orta auto-tune, geniş ve sinematik vokal, gospel ile trap arasında köprü kuran zincir.",
+  "retune_speed": 0.45,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 3.5,
+    "attack_ms": 10.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.55,
+    "damping": 0.45,
+    "wet_level": 0.32,
+    "dry_level": 0.88,
+    "width": 0.95
+  },
+  "tags": ["hip-hop", "experimental", "gospel", "chicago", "iconic", "global"]
+}

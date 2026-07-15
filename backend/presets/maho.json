@@ -1,0 +1,37 @@
+{
+  "id": "maho",
+  "name": "Maho",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Maho tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 0.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -0.2,
+    "mid_peak_q": 0.71
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 3.9,
+    "attack_ms": 6.0,
+    "release_ms": 280.1
+  },
+  "reverb": {
+    "room_size": 0.23,
+    "damping": 0.41,
+    "wet_level": 0.13,
+    "dry_level": 0.74,
+    "width": 0.68
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "global"
+  ]
+}

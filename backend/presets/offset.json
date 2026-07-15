@@ -1,0 +1,37 @@
+{
+  "id": "offset",
+  "name": "Offset",
+  "emoji": "🚀",
+  "genre": "Melodic / R&B",
+  "description": "Offset tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.5,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 2.6,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.9,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 0.2,
+    "mid_peak_q": 0.73
+  },
+  "compression": {
+    "threshold_db": -13.7,
+    "ratio": 3.3,
+    "attack_ms": 13.2,
+    "release_ms": 264.7
+  },
+  "reverb": {
+    "room_size": 0.47,
+    "damping": 0.89,
+    "wet_level": 0.53,
+    "dry_level": 0.87,
+    "width": 0.82
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "türkçe"
+  ]
+}

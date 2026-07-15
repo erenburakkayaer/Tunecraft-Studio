@@ -1,0 +1,32 @@
+{
+  "id": "reckol",
+  "name": "Reckol",
+  "emoji": "🌀",
+  "genre": "Türkçe Trap / Akış",
+  "description": "Sürekli akış ve ritim hakimiyeti. Orta frekans güçlü, net artikülasyon, hızlı trap beat uyumu.",
+  "retune_speed": 0.15,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 85,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.5,
+    "attack_ms": 7.0,
+    "release_ms": 130.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.7,
+    "wet_level": 0.14,
+    "dry_level": 0.88,
+    "width": 0.65
+  },
+  "tags": ["türkçe", "akış", "ritim", "trap", "net"]
+}

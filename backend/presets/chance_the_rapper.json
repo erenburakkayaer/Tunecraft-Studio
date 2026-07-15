@@ -1,0 +1,32 @@
+{
+  "id": "chance_the_rapper",
+  "name": "Chance The Rapper",
+  "emoji": "🎪",
+  "genre": "Gospel Hip-Hop / Indie Rap",
+  "description": "Chance'ın Chicago gospel enerjisi. Minimal auto-tune, açık ve dinamik vokal, ruhsal geniş atmosfer.",
+  "retune_speed": 0.08,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 2.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.0,
+    "attack_ms": 20.0,
+    "release_ms": 300.0
+  },
+  "reverb": {
+    "room_size": 0.55,
+    "damping": 0.45,
+    "wet_level": 0.3,
+    "dry_level": 0.88,
+    "width": 0.95
+  },
+  "tags": ["gospel", "hip-hop", "indie", "chicago", "dinamik", "global"]
+}

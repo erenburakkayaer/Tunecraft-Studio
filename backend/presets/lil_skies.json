@@ -1,0 +1,37 @@
+{
+  "id": "lil_skies",
+  "name": "Lil Skies",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Lil Skies tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.8,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 0.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 0.7,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -16.8,
+    "ratio": 3.7,
+    "attack_ms": 12.8,
+    "release_ms": 253.1
+  },
+  "reverb": {
+    "room_size": 0.66,
+    "damping": 0.42,
+    "wet_level": 0.1,
+    "dry_level": 0.74,
+    "width": 0.99
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

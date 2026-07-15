@@ -1,0 +1,32 @@
+{
+  "id": "ati242",
+  "name": "Ati242",
+  "emoji": "🔥",
+  "genre": "Türkçe Trap / Mahalle",
+  "description": "Sokak enerjisi ve mahalle ruhu. Ham ve güçlü vocal, punch bass, minimal ama etkili işleme.",
+  "retune_speed": 0.1,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 70,
+    "low_shelf_gain_db": 4.5,
+    "high_shelf_hz": 10500,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 350,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 5.5,
+    "attack_ms": 5.0,
+    "release_ms": 100.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.8,
+    "wet_level": 0.08,
+    "dry_level": 0.93,
+    "width": 0.6
+  },
+  "tags": ["türkçe", "sokak", "mahalle", "raw", "güçlü"]
+}

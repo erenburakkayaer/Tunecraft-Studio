@@ -1,0 +1,32 @@
+{
+  "id": "lil_wayne",
+  "name": "Lil Wayne",
+  "emoji": "🐉",
+  "genre": "Hip-Hop / Legend",
+  "description": "Rap tanrısının ikonik sesi. Hafif auto-tune spikeları, geniş vocal range, legend mikrofon tekniği.",
+  "retune_speed": 0.2,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 90,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 9500,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.5,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.0,
+    "attack_ms": 9.0,
+    "release_ms": 155.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.58,
+    "wet_level": 0.2,
+    "dry_level": 0.85,
+    "width": 0.8
+  },
+  "tags": ["legend", "iconic", "rap-god", "versatile", "classic"]
+}

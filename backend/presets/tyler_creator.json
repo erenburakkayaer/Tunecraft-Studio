@@ -1,0 +1,32 @@
+{
+  "id": "tyler_creator",
+  "name": "Tyler, The Creator",
+  "emoji": "🎨",
+  "genre": "Hip-Hop / Alternative / Odd Future",
+  "description": "Sanatçı zihninin sesi. Yaratıcı ve beklenmedik işleme — sıcak bas, vintage tonlama, avant-garde dokunuş.",
+  "retune_speed": 0.15,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 0.5,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 2.5,
+    "attack_ms": 22.0,
+    "release_ms": 320.0
+  },
+  "reverb": {
+    "room_size": 0.42,
+    "damping": 0.55,
+    "wet_level": 0.25,
+    "dry_level": 0.82,
+    "width": 0.85
+  },
+  "tags": ["avant-garde", "yaratıcı", "alternative", "vintage", "sanat"]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "xir",
+  "name": "Xir",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Xir tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.52,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 2.2,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.2,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -1.4,
+    "mid_peak_q": 0.61
+  },
+  "compression": {
+    "threshold_db": -13.4,
+    "ratio": 3.7,
+    "attack_ms": 12.5,
+    "release_ms": 156.5
+  },
+  "reverb": {
+    "room_size": 0.27,
+    "damping": 0.72,
+    "wet_level": 0.34,
+    "dry_level": 0.72,
+    "width": 0.69
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

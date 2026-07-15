@@ -1,0 +1,32 @@
+{
+  "id": "21_savage",
+  "name": "21 Savage",
+  "emoji": "🗡️",
+  "genre": "Hip-Hop / Trap",
+  "description": "Soğuk kanlı Atlanta trap. Monoton ve tehdit edici ses — neredeyse sıfır auto-tune, sert kompresyon.",
+  "retune_speed": 0.05,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 350,
+    "mid_peak_gain_db": -1.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 7.0,
+    "attack_ms": 4.0,
+    "release_ms": 80.0
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.85,
+    "wet_level": 0.08,
+    "dry_level": 0.93,
+    "width": 0.55
+  },
+  "tags": ["trap", "soğuk", "monoton", "tehdit", "raw"]
+}

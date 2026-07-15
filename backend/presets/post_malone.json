@@ -1,0 +1,32 @@
+{
+  "id": "post_malone",
+  "name": "Post Malone",
+  "emoji": "🍺",
+  "genre": "Pop-Rap / Alternative",
+  "description": "Pop ve rapın fusion sesi. Orta auto-tune, açık ve parlak vocal, geniş reverb ile hit formülü.",
+  "retune_speed": 0.5,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 95,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 800,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.5,
+    "attack_ms": 12.0,
+    "release_ms": 210.0
+  },
+  "reverb": {
+    "room_size": 0.52,
+    "damping": 0.48,
+    "wet_level": 0.33,
+    "dry_level": 0.77,
+    "width": 0.9
+  },
+  "tags": ["pop-rap", "fusion", "hit", "parlak", "geniş"]
+}

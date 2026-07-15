@@ -1,0 +1,32 @@
+{
+  "id": "bone_thugs_n_harmony",
+  "name": "Bone Thugs-n-Harmony",
+  "emoji": "🕊️",
+  "genre": "90s Hip-Hop / Melodic Rap",
+  "description": "Bone Thugs'ın Cleveland melodic rap sesi. Orta auto-tune, geniş harmoni stereosu, hızlı flow ve ruhsal R&B etkisi.",
+  "retune_speed": 0.55,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 1200,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.5,
+    "attack_ms": 15.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.55,
+    "damping": 0.5,
+    "wet_level": 0.3,
+    "dry_level": 0.85,
+    "width": 0.98
+  },
+  "tags": ["90s", "hip-hop", "melodic", "harmony", "cleveland", "global"]
+}

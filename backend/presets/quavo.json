@@ -1,0 +1,37 @@
+{
+  "id": "quavo",
+  "name": "Quavo",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Quavo tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.15,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.6,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.98
+  },
+  "compression": {
+    "threshold_db": -15.3,
+    "ratio": 5.1,
+    "attack_ms": 16.3,
+    "release_ms": 250.9
+  },
+  "reverb": {
+    "room_size": 0.47,
+    "damping": 0.48,
+    "wet_level": 0.28,
+    "dry_level": 0.77,
+    "width": 0.81
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "three_6_mafia",
+  "name": "Three 6 Mafia",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Three 6 Mafia tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.22,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 4.8,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -0.5,
+    "mid_peak_q": 0.68
+  },
+  "compression": {
+    "threshold_db": -17.1,
+    "ratio": 6.4,
+    "attack_ms": 8.8,
+    "release_ms": 215.1
+  },
+  "reverb": {
+    "room_size": 0.11,
+    "damping": 0.53,
+    "wet_level": 0.28,
+    "dry_level": 0.76,
+    "width": 0.65
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

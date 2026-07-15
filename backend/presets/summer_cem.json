@@ -1,0 +1,32 @@
+{
+  "id": "summer_cem",
+  "name": "Summer Cem",
+  "emoji": "☀️",
+  "genre": "Türkçe Trap / Swag",
+  "description": "Swag ve özgüven. Chill trap vibes, orta auto-tune, açık ve havadar stereo sahne.",
+  "retune_speed": 0.35,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 85,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10500,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 0.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.5,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.42,
+    "damping": 0.5,
+    "wet_level": 0.28,
+    "dry_level": 0.8,
+    "width": 0.88
+  },
+  "tags": ["türkçe", "swag", "chill", "trap", "hava"]
+}

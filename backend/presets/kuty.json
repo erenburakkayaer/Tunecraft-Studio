@@ -1,0 +1,37 @@
+{
+  "id": "kuty",
+  "name": "Kuty",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Kuty tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.32,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 3.6,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.8,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -0.5,
+    "mid_peak_q": 0.89
+  },
+  "compression": {
+    "threshold_db": -10.8,
+    "ratio": 5.9,
+    "attack_ms": 9.0,
+    "release_ms": 148.5
+  },
+  "reverb": {
+    "room_size": 0.62,
+    "damping": 0.47,
+    "wet_level": 0.25,
+    "dry_level": 0.77,
+    "width": 0.79
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "global"
+  ]
+}

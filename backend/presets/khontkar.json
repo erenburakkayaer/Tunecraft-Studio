@@ -1,0 +1,32 @@
+{
+  "id": "khontkar",
+  "name": "Khontkar",
+  "emoji": "🕶️",
+  "genre": "Türkçe Trap / Underground",
+  "description": "Karizmatik ve yavaş akış. Derin bas, soğuk tiz, uzun attack kompresyonu ile ağır hava.",
+  "retune_speed": 0.18,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 65,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -2.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 4.0,
+    "attack_ms": 18.0,
+    "release_ms": 280.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.55,
+    "wet_level": 0.25,
+    "dry_level": 0.82,
+    "width": 0.85
+  },
+  "tags": ["türkçe", "underground", "ağır", "karizmatik", "bass"]
+}

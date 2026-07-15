@@ -1,0 +1,32 @@
+{
+  "id": "critical",
+  "name": "Critical",
+  "emoji": "🌊",
+  "genre": "Melodic Trap / Türkçe Rap",
+  "description": "Critical'ın akıcı ve atmosferik Türkçe melodic trap sesi. Orta auto-tune, dengeli EQ ve geniş vokal zinciri.",
+  "retune_speed": 0.45,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 1800,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.0,
+    "attack_ms": 10.0,
+    "release_ms": 190.0
+  },
+  "reverb": {
+    "room_size": 0.38,
+    "damping": 0.65,
+    "wet_level": 0.22,
+    "dry_level": 0.9,
+    "width": 0.85
+  },
+  "tags": ["türkçe", "melodic-trap", "auto-tune", "smooth"]
+}

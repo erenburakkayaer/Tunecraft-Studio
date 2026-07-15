@@ -1,0 +1,32 @@
+{
+  "id": "canbay_and_wolker",
+  "name": "Canbay & Wolker",
+  "emoji": "🚀",
+  "genre": "Melodic Trap / Türkçe Pop-Rap",
+  "description": "Canbay & Wolker'ın duygusal ve melodik Türkçe sesi. Orta-yüksek auto-tune, sıcak EQ ve geniş atmosferik vokal zinciri.",
+  "retune_speed": 0.65,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 3.5,
+    "attack_ms": 14.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.48,
+    "damping": 0.5,
+    "wet_level": 0.32,
+    "dry_level": 0.87,
+    "width": 0.92
+  },
+  "tags": ["türkçe", "melodic-trap", "pop-rap", "auto-tune", "duygusal"]
+}

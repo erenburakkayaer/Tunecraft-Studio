@@ -1,0 +1,32 @@
+{
+  "id": "future",
+  "name": "Future",
+  "emoji": "🌌",
+  "genre": "Hip-Hop / Melodic Trap",
+  "description": "Atlanta'nın sisi. Heavy auto-tune, dark ambiyans, hypnotic tekrarlama — tam robotik melodi.",
+  "retune_speed": 0.82,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 11000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 400,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 5.0,
+    "attack_ms": 8.0,
+    "release_ms": 160.0
+  },
+  "reverb": {
+    "room_size": 0.62,
+    "damping": 0.38,
+    "wet_level": 0.42,
+    "dry_level": 0.84,
+    "width": 0.96
+  },
+  "tags": ["auto-tune", "dark", "melodic", "hypnotic", "atlanta", "global"]
+}

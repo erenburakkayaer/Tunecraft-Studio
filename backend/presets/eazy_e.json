@@ -1,0 +1,32 @@
+{
+  "id": "eazy_e",
+  "name": "Eazy-E",
+  "emoji": "🤠",
+  "genre": "West Coast / Gangsta Rap",
+  "description": "Eazy-E'nin Compton NWA ikonik sesi. Sıfır auto-tune, ince ve nasal West Coast karakteri, keskin ve direkt vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 4.0,
+    "mid_peak_hz": 3000,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 5.0,
+    "attack_ms": 6.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.8,
+    "wet_level": 0.1,
+    "dry_level": 0.93,
+    "width": 0.7
+  },
+  "tags": ["west-coast", "gangsta-rap", "nwa", "compton", "classic", "global"]
+}

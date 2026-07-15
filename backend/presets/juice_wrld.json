@@ -1,0 +1,32 @@
+{
+  "id": "juice_wrld",
+  "name": "Juice WRLD",
+  "emoji": "💜",
+  "genre": "Emo Trap / Melodic Rap",
+  "description": "999 — melodic ve duygusal. Doğal ama hafifçe düzeltilmiş pitch, orta reverb ile.",
+  "retune_speed": 0.62,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 800,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.0,
+    "attack_ms": 10.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.5,
+    "damping": 0.55,
+    "wet_level": 0.32,
+    "dry_level": 0.87,
+    "width": 0.88
+  },
+  "tags": ["melodic", "emotional", "trap", "natural", "emo", "global"]
+}

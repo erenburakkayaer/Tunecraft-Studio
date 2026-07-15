@@ -1,0 +1,32 @@
+{
+  "id": "yeat",
+  "name": "Yeat",
+  "emoji": "💀",
+  "genre": "Hip-Hop / Rage Trap",
+  "description": "Rage trap'in öncüsü. Yoğun auto-tune, distorted vocal, chaotic enerji ile yeni nesil ses.",
+  "retune_speed": 0.8,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 70,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -2.5,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 8.0,
+    "attack_ms": 3.0,
+    "release_ms": 60.0
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.5,
+    "wet_level": 0.3,
+    "dry_level": 0.8,
+    "width": 0.9
+  },
+  "tags": ["rage", "distorted", "auto-tune", "chaotic", "new-gen"]
+}

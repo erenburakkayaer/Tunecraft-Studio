@@ -1,0 +1,37 @@
+{
+  "id": "organize",
+  "name": "Organize",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Organize tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.41,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 2.8,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 3.7,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.7,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.6,
+    "ratio": 3.5,
+    "attack_ms": 5.5,
+    "release_ms": 111.9
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.41,
+    "wet_level": 0.31,
+    "dry_level": 0.86,
+    "width": 0.84
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

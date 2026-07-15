@@ -1,0 +1,37 @@
+{
+  "id": "the_notorious_big",
+  "name": "The Notorious B.I.G.",
+  "emoji": "🚀",
+  "genre": "Boom Bap / Old School",
+  "description": "The Notorious B.I.G. tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 1.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 0.4,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.2,
+    "mid_peak_q": 0.83
+  },
+  "compression": {
+    "threshold_db": -17.8,
+    "ratio": 2.7,
+    "attack_ms": 10.2,
+    "release_ms": 122.3
+  },
+  "reverb": {
+    "room_size": 0.11,
+    "damping": 0.83,
+    "wet_level": 0.11,
+    "dry_level": 0.94,
+    "width": 0.5
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

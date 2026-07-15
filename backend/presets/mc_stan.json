@@ -1,0 +1,37 @@
+{
+  "id": "mc_stan",
+  "name": "MC Stan",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "MC Stan tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.27,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.8,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.2,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 0.9,
+    "mid_peak_q": 0.94
+  },
+  "compression": {
+    "threshold_db": -13.4,
+    "ratio": 5.5,
+    "attack_ms": 15.9,
+    "release_ms": 106.0
+  },
+  "reverb": {
+    "room_size": 0.26,
+    "damping": 0.45,
+    "wet_level": 0.26,
+    "dry_level": 0.87,
+    "width": 0.9
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

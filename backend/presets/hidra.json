@@ -1,0 +1,32 @@
+{
+  "id": "hidra",
+  "name": "Hidra",
+  "emoji": "🐍",
+  "genre": "Türkçe Trap / Rap",
+  "description": "Yılan gibi kıvrılan akış. Orta frekans güçlü, karanlık ton, sakin ama tehlikeli.",
+  "retune_speed": 0.15,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 700,
+    "mid_peak_gain_db": 2.2,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.0,
+    "attack_ms": 8.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.68,
+    "wet_level": 0.16,
+    "dry_level": 0.92,
+    "width": 0.7
+  },
+  "tags": ["türkçe", "trap", "karanlık", "sakin", "tehlikeli"]
+}

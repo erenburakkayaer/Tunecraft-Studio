@@ -1,0 +1,32 @@
+{
+  "id": "conway_the_machine",
+  "name": "Conway The Machine",
+  "emoji": "🩸",
+  "genre": "Griselda / Street Rap",
+  "description": "Conway The Machine'in Buffalo Griselda gücü. Sıfır auto-tune, ağır ve gritty ses, karanlık ve ezici vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 3.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 6.5,
+    "attack_ms": 4.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.88,
+    "wet_level": 0.08,
+    "dry_level": 0.95,
+    "width": 0.65
+  },
+  "tags": ["griselda", "street-rap", "buffalo", "gritty", "raw", "global"]
+}

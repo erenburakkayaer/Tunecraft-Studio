@@ -1,0 +1,37 @@
+{
+  "id": "ravend",
+  "name": "Ravend",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Ravend tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.81,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 2.6,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.2,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.2,
+    "mid_peak_q": 0.83
+  },
+  "compression": {
+    "threshold_db": -13.4,
+    "ratio": 3.2,
+    "attack_ms": 11.2,
+    "release_ms": 117.5
+  },
+  "reverb": {
+    "room_size": 0.28,
+    "damping": 0.8,
+    "wet_level": 0.42,
+    "dry_level": 0.77,
+    "width": 0.69
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "contra",
+  "name": "Contra",
+  "emoji": "⚔️",
+  "genre": "Türkçe Rap / Bilinçli",
+  "description": "Siyasi ve sosyal bilinç rap. Güçlü söz, net artikülasyon, minimal efekt — mesaj ön planda.",
+  "retune_speed": 0.05,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 95,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": 2.2,
+    "mid_peak_hz": 1200,
+    "mid_peak_gain_db": 2.8,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.0,
+    "attack_ms": 18.0,
+    "release_ms": 280.0
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.88,
+    "wet_level": 0.06,
+    "dry_level": 0.95,
+    "width": 0.5
+  },
+  "tags": ["türkçe", "bilinçli", "siyasi", "net", "mesaj"]
+}

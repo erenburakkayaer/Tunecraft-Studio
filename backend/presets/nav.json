@@ -1,0 +1,37 @@
+{
+  "id": "nav",
+  "name": "Nav",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Nav tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.69,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 2.9,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 3.7,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.82
+  },
+  "compression": {
+    "threshold_db": -17.8,
+    "ratio": 3.7,
+    "attack_ms": 16.4,
+    "release_ms": 201.6
+  },
+  "reverb": {
+    "room_size": 0.64,
+    "damping": 0.43,
+    "wet_level": 0.4,
+    "dry_level": 0.72,
+    "width": 0.63
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "türkçe"
+  ]
+}

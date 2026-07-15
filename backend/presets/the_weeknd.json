@@ -1,0 +1,32 @@
+{
+  "id": "the_weeknd",
+  "name": "The Weeknd",
+  "emoji": "🌃",
+  "genre": "R&B / Pop",
+  "description": "Gece şehri sesi. Falsettoyu destekleyen yüksek tiz boost, zengin reverb, sinematik ambiyans.",
+  "retune_speed": 0.55,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 11000,
+    "high_shelf_gain_db": 4.0,
+    "mid_peak_hz": 600,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.6
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 3.0,
+    "attack_ms": 14.0,
+    "release_ms": 240.0
+  },
+  "reverb": {
+    "room_size": 0.65,
+    "damping": 0.4,
+    "wet_level": 0.42,
+    "dry_level": 0.72,
+    "width": 0.98
+  },
+  "tags": ["r&b", "pop", "sinematik", "gece", "falcetto"]
+}

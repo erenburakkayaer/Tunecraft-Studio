@@ -1,0 +1,32 @@
+{
+  "id": "benny_the_butcher",
+  "name": "Benny The Butcher",
+  "emoji": "🥩",
+  "genre": "Griselda / Street Rap",
+  "description": "Benny The Butcher'ın Buffalo Griselda sesi. Sıfır auto-tune, çok kuru, gritty ve keskin street rap vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 1800,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 6.0,
+    "attack_ms": 4.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.15,
+    "damping": 0.88,
+    "wet_level": 0.07,
+    "dry_level": 0.95,
+    "width": 0.55
+  },
+  "tags": ["griselda", "street-rap", "boom-bap", "raw", "buffalo", "global"]
+}

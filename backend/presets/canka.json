@@ -1,0 +1,32 @@
+{
+  "id": "canka",
+  "name": "Canka",
+  "emoji": "🎯",
+  "genre": "Türkçe Trap / Rap",
+  "description": "Canka'nın direkt ve enerjik Türkçe trap sesi. Hafif auto-tune, güçlü bas ve punch'lı vokal zinciri.",
+  "retune_speed": 0.2,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 5.0,
+    "attack_ms": 7.0,
+    "release_ms": 140.0
+  },
+  "reverb": {
+    "room_size": 0.22,
+    "damping": 0.75,
+    "wet_level": 0.12,
+    "dry_level": 0.92,
+    "width": 0.7
+  },
+  "tags": ["türkçe", "trap", "rap", "enerjik", "direkt"]
+}

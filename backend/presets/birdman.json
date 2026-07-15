@@ -1,0 +1,32 @@
+{
+  "id": "birdman",
+  "name": "Birdman",
+  "emoji": "🦅",
+  "genre": "Hip-Hop / New Orleans",
+  "description": "Birdman'ın Cash Money New Orleans sesi. Minimal auto-tune, derin ve hırıltılı bas vokal, güçlü ve direkt zincir.",
+  "retune_speed": 0.08,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 800,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 5.5,
+    "attack_ms": 6.0,
+    "release_ms": 150.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.7,
+    "wet_level": 0.15,
+    "dry_level": 0.92,
+    "width": 0.7
+  },
+  "tags": ["hip-hop", "new-orleans", "cash-money", "bass", "raw", "global"]
+}

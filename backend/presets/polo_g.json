@@ -1,0 +1,37 @@
+{
+  "id": "polo_g",
+  "name": "Polo G",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Polo G tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.09,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.7,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.2,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.7,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 3.1,
+    "attack_ms": 7.8,
+    "release_ms": 265.3
+  },
+  "reverb": {
+    "room_size": 0.32,
+    "damping": 0.42,
+    "wet_level": 0.07,
+    "dry_level": 0.79,
+    "width": 0.62
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

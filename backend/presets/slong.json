@@ -1,0 +1,37 @@
+{
+  "id": "slong",
+  "name": "Slong",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Slong tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.7,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.6,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.4,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 0.7,
+    "mid_peak_q": 0.63
+  },
+  "compression": {
+    "threshold_db": -15.2,
+    "ratio": 4.0,
+    "attack_ms": 13.0,
+    "release_ms": 230.5
+  },
+  "reverb": {
+    "room_size": 0.1,
+    "damping": 0.52,
+    "wet_level": 0.43,
+    "dry_level": 0.87,
+    "width": 0.63
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

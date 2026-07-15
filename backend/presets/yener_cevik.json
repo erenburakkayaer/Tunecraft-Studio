@@ -1,0 +1,32 @@
+{
+  "id": "yener_cevik",
+  "name": "Yener Çevik",
+  "emoji": "🎸",
+  "genre": "Türkçe Rock-Rap / Alternatif",
+  "description": "Rock ve rapın buluşması. Orta frekans güçlü, crunch vokali destekleyen EQ, canlı sahne hissi.",
+  "retune_speed": 0.08,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.0,
+    "attack_ms": 8.0,
+    "release_ms": 150.0
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.5,
+    "wet_level": 0.22,
+    "dry_level": 0.84,
+    "width": 0.85
+  },
+  "tags": ["türkçe", "rock-rap", "alternatif", "canlı", "sahne"]
+}

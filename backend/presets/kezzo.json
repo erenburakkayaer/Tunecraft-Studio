@@ -1,0 +1,32 @@
+{
+  "id": "kezzo",
+  "name": "Kezzo",
+  "emoji": "🎲",
+  "genre": "Türkçe Rap / Boom Bap",
+  "description": "Klasik Türk boom bap ruhu. Vintage dokunuş — sıcak orta frekans, minumum dijital işleme.",
+  "retune_speed": 0.05,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 7500,
+    "high_shelf_gain_db": -0.5,
+    "mid_peak_hz": 800,
+    "mid_peak_gain_db": 3.5,
+    "mid_peak_q": 0.6
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.0,
+    "attack_ms": 20.0,
+    "release_ms": 280.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.7,
+    "wet_level": 0.15,
+    "dry_level": 0.88,
+    "width": 0.65
+  },
+  "tags": ["türkçe", "boom-bap", "klasik", "vintage", "sıcak"]
+}

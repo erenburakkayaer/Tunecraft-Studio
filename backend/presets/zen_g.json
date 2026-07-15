@@ -1,0 +1,37 @@
+{
+  "id": "zen_g",
+  "name": "Zen-G",
+  "emoji": "🎸",
+  "genre": "Boom Bap / Old School",
+  "description": "Zen-G tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.0,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 0.8,
+    "mid_peak_q": 0.73
+  },
+  "compression": {
+    "threshold_db": -15.6,
+    "ratio": 2.8,
+    "attack_ms": 24.1,
+    "release_ms": 226.6
+  },
+  "reverb": {
+    "room_size": 0.6,
+    "damping": 0.48,
+    "wet_level": 0.08,
+    "dry_level": 0.84,
+    "width": 0.63
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "global"
+  ]
+}

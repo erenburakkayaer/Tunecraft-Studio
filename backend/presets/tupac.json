@@ -1,0 +1,37 @@
+{
+  "id": "tupac",
+  "name": "Tupac",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Tupac tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.17,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 5.7,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.6,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -1.9,
+    "mid_peak_q": 0.87
+  },
+  "compression": {
+    "threshold_db": -14.3,
+    "ratio": 5.7,
+    "attack_ms": 16.8,
+    "release_ms": 265.2
+  },
+  "reverb": {
+    "room_size": 0.17,
+    "damping": 0.53,
+    "wet_level": 0.26,
+    "dry_level": 0.87,
+    "width": 0.78
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

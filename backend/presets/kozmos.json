@@ -1,0 +1,37 @@
+{
+  "id": "kozmos",
+  "name": "Kozmos",
+  "emoji": "🎧",
+  "genre": "Drill",
+  "description": "Kozmos tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.24,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 4.2,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.4,
+    "mid_peak_q": 0.77
+  },
+  "compression": {
+    "threshold_db": -14.3,
+    "ratio": 6.1,
+    "attack_ms": 23.3,
+    "release_ms": 274.7
+  },
+  "reverb": {
+    "room_size": 0.43,
+    "damping": 0.71,
+    "wet_level": 0.25,
+    "dry_level": 0.87,
+    "width": 0.61
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "global"
+  ]
+}

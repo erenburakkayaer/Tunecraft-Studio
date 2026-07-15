@@ -1,0 +1,32 @@
+{
+  "id": "young_thug",
+  "name": "Young Thug",
+  "emoji": "🦋",
+  "genre": "Hip-Hop / Slime",
+  "description": "Benzersiz vocal texture ve ad-lib zenginliği. Güçlü auto-tune, bol reverb, genişletilmiş vokal çeşitlilik.",
+  "retune_speed": 0.65,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 85,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 11000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 600,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.65
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.5,
+    "attack_ms": 9.0,
+    "release_ms": 160.0
+  },
+  "reverb": {
+    "room_size": 0.5,
+    "damping": 0.48,
+    "wet_level": 0.32,
+    "dry_level": 0.78,
+    "width": 0.9
+  },
+  "tags": ["slime", "unique", "ad-lib", "auto-tune", "creative"]
+}

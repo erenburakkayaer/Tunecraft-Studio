@@ -1,0 +1,32 @@
+{
+  "id": "ice_cube",
+  "name": "Ice Cube",
+  "emoji": "🧊",
+  "genre": "West Coast / Gangsta Rap",
+  "description": "Ice Cube'un Compton NWA öfkesi. Sıfır auto-tune, keskin ve agresif West Coast teslimat, sert kompresyon.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 2500,
+    "mid_peak_gain_db": 3.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 6.5,
+    "attack_ms": 4.0,
+    "release_ms": 120.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.85,
+    "wet_level": 0.08,
+    "dry_level": 0.95,
+    "width": 0.65
+  },
+  "tags": ["west-coast", "gangsta-rap", "nwa", "compton", "agresif", "global"]
+}

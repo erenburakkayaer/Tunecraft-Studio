@@ -1,0 +1,37 @@
+{
+  "id": "mavi",
+  "name": "Mavi",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Mavi tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.27,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 5.1,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.9,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 0.5,
+    "mid_peak_q": 0.99
+  },
+  "compression": {
+    "threshold_db": -17.7,
+    "ratio": 6.9,
+    "attack_ms": 19.9,
+    "release_ms": 283.2
+  },
+  "reverb": {
+    "room_size": 0.67,
+    "damping": 0.68,
+    "wet_level": 0.28,
+    "dry_level": 0.72,
+    "width": 0.54
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "global"
+  ]
+}

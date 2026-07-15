@@ -1,0 +1,32 @@
+{
+  "id": "kayra",
+  "name": "Kayra",
+  "emoji": "🌿",
+  "genre": "Türkçe Rap / Alternatif",
+  "description": "Özgür ruh ve serbest akış. Doğal ton, hafif reverb, düşük kompresyon ile organik his.",
+  "retune_speed": 0.08,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": 1.8,
+    "mid_peak_hz": 700,
+    "mid_peak_gain_db": 2.2,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -18.0,
+    "ratio": 2.5,
+    "attack_ms": 22.0,
+    "release_ms": 320.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.68,
+    "wet_level": 0.14,
+    "dry_level": 0.9,
+    "width": 0.75
+  },
+  "tags": ["türkçe", "alternatif", "organik", "doğal", "özgür"]
+}

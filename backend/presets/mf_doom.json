@@ -1,0 +1,37 @@
+{
+  "id": "mf_doom",
+  "name": "MF DOOM",
+  "emoji": "⚡",
+  "genre": "Drill",
+  "description": "MF DOOM tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.27,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 4.1,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.6,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.6,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -11.1,
+    "ratio": 5.3,
+    "attack_ms": 23.0,
+    "release_ms": 220.1
+  },
+  "reverb": {
+    "room_size": 0.59,
+    "damping": 0.41,
+    "wet_level": 0.27,
+    "dry_level": 0.9,
+    "width": 0.56
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kamufle",
+  "name": "Kamufle",
+  "emoji": "🎭",
+  "genre": "Türkçe Rap / Underground",
+  "description": "Kamufle'nin lirik ve underground Türkçe rap sesi. Minimal auto-tune, net artikülasyon ve güçlü vokal zinciri.",
+  "retune_speed": 0.07,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 3.5,
+    "attack_ms": 10.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.8,
+    "wet_level": 0.1,
+    "dry_level": 0.93,
+    "width": 0.65
+  },
+  "tags": ["türkçe", "underground", "lirik", "raw", "net"]
+}

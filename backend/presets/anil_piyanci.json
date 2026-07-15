@@ -1,0 +1,32 @@
+{
+  "id": "anil_piyanci",
+  "name": "Anıl Piyancı",
+  "emoji": "🎹",
+  "genre": "Türkçe Pop-Rap / R&B",
+  "description": "Anıl Piyancı'nın müzikal ve melodik pop-rap sesi. Orta auto-tune, sıcak ve parlak EQ, geniş stereo alan.",
+  "retune_speed": 0.55,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.0,
+    "attack_ms": 14.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.5,
+    "wet_level": 0.28,
+    "dry_level": 0.85,
+    "width": 0.9
+  },
+  "tags": ["türkçe", "pop", "melodic", "r&b", "üretici"]
+}

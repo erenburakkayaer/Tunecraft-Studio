@@ -1,0 +1,37 @@
+{
+  "id": "poizi",
+  "name": "Poizi",
+  "emoji": "🎸",
+  "genre": "Boom Bap / Old School",
+  "description": "Poizi tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.04,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 1.9,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 0.4,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -17.4,
+    "ratio": 3.9,
+    "attack_ms": 8.1,
+    "release_ms": 215.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.54,
+    "wet_level": 0.06,
+    "dry_level": 0.76,
+    "width": 0.52
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "global"
+  ]
+}

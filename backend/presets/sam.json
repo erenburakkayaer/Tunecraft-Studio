@@ -1,0 +1,37 @@
+{
+  "id": "sam",
+  "name": "Şam",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Şam tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.56,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 2.9,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.4,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -0.5,
+    "mid_peak_q": 0.86
+  },
+  "compression": {
+    "threshold_db": -16.2,
+    "ratio": 4.1,
+    "attack_ms": 7.9,
+    "release_ms": 258.6
+  },
+  "reverb": {
+    "room_size": 0.61,
+    "damping": 0.88,
+    "wet_level": 0.47,
+    "dry_level": 0.87,
+    "width": 0.88
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

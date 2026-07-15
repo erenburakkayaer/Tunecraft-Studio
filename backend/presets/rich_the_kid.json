@@ -1,0 +1,37 @@
+{
+  "id": "rich_the_kid",
+  "name": "Rich The Kid",
+  "emoji": "💥",
+  "genre": "Rap / Trap",
+  "description": "Rich The Kid tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.58,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 3.6,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.7,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.6,
+    "mid_peak_q": 0.96
+  },
+  "compression": {
+    "threshold_db": -10.2,
+    "ratio": 5.6,
+    "attack_ms": 11.8,
+    "release_ms": 145.6
+  },
+  "reverb": {
+    "room_size": 0.12,
+    "damping": 0.85,
+    "wet_level": 0.35,
+    "dry_level": 0.77,
+    "width": 0.76
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

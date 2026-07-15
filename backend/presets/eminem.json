@@ -1,0 +1,32 @@
+{
+  "id": "eminem",
+  "name": "Eminem",
+  "emoji": "⚡",
+  "genre": "Hip-Hop / Rap God",
+  "description": "Hız ve netlik krallığı. Kristal berraklığında vocal — sıfır auto-tune, maximum articulation, sert kompresyon.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 9500,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 3000,
+    "mid_peak_gain_db": 3.2,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 6.0,
+    "attack_ms": 4.0,
+    "release_ms": 100.0
+  },
+  "reverb": {
+    "room_size": 0.1,
+    "damping": 0.95,
+    "wet_level": 0.04,
+    "dry_level": 0.97,
+    "width": 0.4
+  },
+  "tags": ["hız", "netlik", "rap-god", "articulation", "legend", "global"]
+}

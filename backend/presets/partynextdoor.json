@@ -1,0 +1,37 @@
+{
+  "id": "partynextdoor",
+  "name": "PARTYNEXTDOOR",
+  "emoji": "🚀",
+  "genre": "Rap / Trap",
+  "description": "PARTYNEXTDOOR tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.6,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 2.9,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.89
+  },
+  "compression": {
+    "threshold_db": -16.6,
+    "ratio": 4.5,
+    "attack_ms": 19.0,
+    "release_ms": 199.2
+  },
+  "reverb": {
+    "room_size": 0.31,
+    "damping": 0.68,
+    "wet_level": 0.26,
+    "dry_level": 0.83,
+    "width": 0.93
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

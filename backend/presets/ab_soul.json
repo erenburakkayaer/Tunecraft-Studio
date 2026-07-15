@@ -1,0 +1,32 @@
+{
+  "id": "ab_soul",
+  "name": "Ab-Soul",
+  "emoji": "📖",
+  "genre": "Conscious Hip-Hop",
+  "description": "Ab-Soul'un TDE'ye özgü ham ve lirik sesi. Sıfıra yakın auto-tune, orta kompresyon, karanlık ve introspektif vokal zinciri.",
+  "retune_speed": 0.06,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 1800,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 3.5,
+    "attack_ms": 15.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.8,
+    "wet_level": 0.14,
+    "dry_level": 0.92,
+    "width": 0.65
+  },
+  "tags": ["conscious", "hip-hop", "raw", "lyrical", "tde", "global"]
+}

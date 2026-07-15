@@ -1,0 +1,37 @@
+{
+  "id": "nle_choppa",
+  "name": "NLE Choppa",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "NLE Choppa tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.42,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.4,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.9,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.1,
+    "mid_peak_q": 0.94
+  },
+  "compression": {
+    "threshold_db": -12.7,
+    "ratio": 4.7,
+    "attack_ms": 12.1,
+    "release_ms": 260.1
+  },
+  "reverb": {
+    "room_size": 0.47,
+    "damping": 0.82,
+    "wet_level": 0.26,
+    "dry_level": 0.74,
+    "width": 0.52
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

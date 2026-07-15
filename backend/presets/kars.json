@@ -1,0 +1,32 @@
+{
+  "id": "kars",
+  "name": "Kars",
+  "emoji": "⚡",
+  "genre": "Türkçe Drill / Trap",
+  "description": "Kars'ın karanlık ve agresif Türkçe drill sesi. Hafif auto-tune, güçlü bas ve sert vokal zinciri.",
+  "retune_speed": 0.22,
+  "scale": "F Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.0,
+    "attack_ms": 4.0,
+    "release_ms": 140.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.8,
+    "wet_level": 0.13,
+    "dry_level": 0.92,
+    "width": 0.78
+  },
+  "tags": ["türkçe", "drill", "bass", "karanlık", "agresif"]
+}

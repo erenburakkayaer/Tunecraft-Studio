@@ -1,0 +1,37 @@
+{
+  "id": "sehinsah",
+  "name": "Şehinşah",
+  "emoji": "🎧",
+  "genre": "Boom Bap / Old School",
+  "description": "Şehinşah tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.07,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.2,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 0.4,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 0.5,
+    "mid_peak_q": 0.67
+  },
+  "compression": {
+    "threshold_db": -12.5,
+    "ratio": 2.6,
+    "attack_ms": 7.7,
+    "release_ms": 152.1
+  },
+  "reverb": {
+    "room_size": 0.59,
+    "damping": 0.87,
+    "wet_level": 0.11,
+    "dry_level": 0.92,
+    "width": 0.8
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "westside_gunn",
+  "name": "Westside Gunn",
+  "emoji": "🚀",
+  "genre": "Rap / Trap",
+  "description": "Westside Gunn tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.66,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 3.9,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 2.8,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.6,
+    "mid_peak_q": 0.63
+  },
+  "compression": {
+    "threshold_db": -13.1,
+    "ratio": 4.1,
+    "attack_ms": 19.2,
+    "release_ms": 277.8
+  },
+  "reverb": {
+    "room_size": 0.29,
+    "damping": 0.54,
+    "wet_level": 0.27,
+    "dry_level": 0.85,
+    "width": 0.83
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

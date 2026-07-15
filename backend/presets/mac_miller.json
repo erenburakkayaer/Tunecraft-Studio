@@ -1,0 +1,32 @@
+{
+  "id": "mac_miller",
+  "name": "Mac Miller",
+  "emoji": "🌈",
+  "genre": "Hip-Hop / Alternative",
+  "description": "Soulful ve kişisel rap. Sıcak ve samimi vocal — minimal efekt, organik hissettiren işleme, ruhani akış.",
+  "retune_speed": 0.08,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 110,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 700,
+    "mid_peak_gain_db": 2.5,
+    "mid_peak_q": 0.65
+  },
+  "compression": {
+    "threshold_db": -17.0,
+    "ratio": 2.8,
+    "attack_ms": 20.0,
+    "release_ms": 300.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.55,
+    "wet_level": 0.22,
+    "dry_level": 0.9,
+    "width": 0.82
+  },
+  "tags": ["soulful", "kişisel", "organik", "alternative", "samimi", "global"]
+}

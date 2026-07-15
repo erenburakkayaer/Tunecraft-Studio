@@ -1,0 +1,32 @@
+{
+  "id": "iann_dior",
+  "name": "iann dior",
+  "emoji": "🌊",
+  "genre": "Melodic Trap / Emo Rap",
+  "description": "iann dior'un duygusal melodic trap sesi. Yüksek auto-tune, geniş atmosfer ve emo rap estetiği.",
+  "retune_speed": 0.75,
+  "scale": "G Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.0,
+    "attack_ms": 10.0,
+    "release_ms": 220.0
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.55,
+    "wet_level": 0.28,
+    "dry_level": 0.9,
+    "width": 0.88
+  },
+  "tags": ["melodic-trap", "emo-rap", "auto-tune", "emotional", "global"]
+}

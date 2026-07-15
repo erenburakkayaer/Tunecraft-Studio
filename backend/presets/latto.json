@@ -1,0 +1,37 @@
+{
+  "id": "latto",
+  "name": "Latto",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Latto tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.48,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 2.8,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.8,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.6,
+    "mid_peak_q": 0.91
+  },
+  "compression": {
+    "threshold_db": -13.1,
+    "ratio": 3.4,
+    "attack_ms": 17.1,
+    "release_ms": 278.5
+  },
+  "reverb": {
+    "room_size": 0.32,
+    "damping": 0.51,
+    "wet_level": 0.46,
+    "dry_level": 0.79,
+    "width": 0.97
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "türkçe"
+  ]
+}

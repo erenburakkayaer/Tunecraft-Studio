@@ -1,0 +1,32 @@
+{
+  "id": "i̇mpala",
+  "name": "İmpala",
+  "emoji": "🎯",
+  "genre": "Türkçe Drill / Trap",
+  "description": "İmpala'nın karanlık ve güçlü Türkçe drill sesi. Hafif auto-tune, sert kompresyon ve agresif vokal zinciri.",
+  "retune_speed": 0.14,
+  "scale": "F Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 6.5,
+    "attack_ms": 4.0,
+    "release_ms": 130.0
+  },
+  "reverb": {
+    "room_size": 0.28,
+    "damping": 0.78,
+    "wet_level": 0.14,
+    "dry_level": 0.92,
+    "width": 0.78
+  },
+  "tags": ["türkçe", "drill", "bass", "karanlık", "agresif"]
+}

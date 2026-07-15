@@ -1,0 +1,31 @@
+# Python / Virtual Environment
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+backend/__pycache__/
+
+# Node / Frontend Build
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Local configuration and secret files (CRITICAL)
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env
+backend/outputs/
+*.log
+
+# OS / IDE / Streamlit metadata
+.DS_Store
+.vscode/
+.idea/
+.streamlit/

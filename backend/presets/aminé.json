@@ -1,0 +1,32 @@
+{
+  "id": "allame",
+  "name": "Allame",
+  "emoji": "📜",
+  "genre": "Türkçe Hip-Hop / Bilinç",
+  "description": "Lirik derinlik ve bilinç. Doğal vocal tonlama, düşük efekt, sözlerin öne çıktığı işleme.",
+  "retune_speed": 0.04,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 110,
+    "low_shelf_gain_db": 1.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.8,
+    "mid_peak_hz": 1200,
+    "mid_peak_gain_db": 2.2,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -18.0,
+    "ratio": 3.0,
+    "attack_ms": 22.0,
+    "release_ms": 320.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.75,
+    "wet_level": 0.1,
+    "dry_level": 0.92,
+    "width": 0.55
+  },
+  "tags": ["türkçe", "bilinçli", "lirik", "doğal", "derin"]
+}

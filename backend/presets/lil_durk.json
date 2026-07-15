@@ -1,0 +1,37 @@
+{
+  "id": "lil_durk",
+  "name": "Lil Durk",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Lil Durk tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 0.6,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.3,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.6,
+    "mid_peak_q": 0.81
+  },
+  "compression": {
+    "threshold_db": -16.8,
+    "ratio": 3.8,
+    "attack_ms": 17.6,
+    "release_ms": 133.2
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.89,
+    "wet_level": 0.12,
+    "dry_level": 0.91,
+    "width": 0.91
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

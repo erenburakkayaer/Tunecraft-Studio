@@ -1,0 +1,37 @@
+{
+  "id": "xxxtentacion",
+  "name": "XXXTentacion",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "XXXTentacion tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.1,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 0.9,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.7,
+    "mid_peak_q": 0.71
+  },
+  "compression": {
+    "threshold_db": -13.4,
+    "ratio": 2.5,
+    "attack_ms": 12.1,
+    "release_ms": 137.8
+  },
+  "reverb": {
+    "room_size": 0.37,
+    "damping": 0.72,
+    "wet_level": 0.07,
+    "dry_level": 0.93,
+    "width": 0.58
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cash_flow",
+  "name": "Cash Flow",
+  "emoji": "💸",
+  "genre": "Türkçe Trap / Rap",
+  "description": "Cash Flow'un enerjik ve akıcı Türkçe trap sesi. Orta auto-tune, güçlü bas ve punch'lı vokal zinciri.",
+  "retune_speed": 0.38,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.0,
+    "attack_ms": 6.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.7,
+    "wet_level": 0.18,
+    "dry_level": 0.92,
+    "width": 0.78
+  },
+  "tags": ["türkçe", "trap", "rap", "enerjik", "auto-tune"]
+}

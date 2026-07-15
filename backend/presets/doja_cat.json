@@ -1,0 +1,32 @@
+{
+  "id": "doja_cat",
+  "name": "Doja Cat",
+  "emoji": "🐱",
+  "genre": "Pop / R&B / Rap",
+  "description": "Doja Cat'in versatile ve parlak sesi. Orta auto-tune, feminen presence, enerjik ve modern pop-rap vokal zinciri.",
+  "retune_speed": 0.52,
+  "scale": "A Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 4.5,
+    "mid_peak_hz": 3500,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 3.5,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.55,
+    "wet_level": 0.25,
+    "dry_level": 0.9,
+    "width": 0.95
+  },
+  "tags": ["pop", "r&b", "rap", "female", "versatile", "global"]
+}

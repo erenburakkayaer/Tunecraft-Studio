@@ -1,0 +1,37 @@
+{
+  "id": "tory_lanez",
+  "name": "Tory Lanez",
+  "emoji": "🎧",
+  "genre": "Boom Bap / Old School",
+  "description": "Tory Lanez tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.04,
+  "scale": "F Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.2,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -1.9,
+    "mid_peak_q": 0.76
+  },
+  "compression": {
+    "threshold_db": -13.6,
+    "ratio": 3.6,
+    "attack_ms": 5.4,
+    "release_ms": 295.5
+  },
+  "reverb": {
+    "room_size": 0.63,
+    "damping": 0.46,
+    "wet_level": 0.13,
+    "dry_level": 0.83,
+    "width": 0.76
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

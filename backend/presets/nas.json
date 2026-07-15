@@ -1,0 +1,37 @@
+{
+  "id": "nas",
+  "name": "Nas",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Nas tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.09,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 0.9,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 0.7,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.99
+  },
+  "compression": {
+    "threshold_db": -11.9,
+    "ratio": 3.6,
+    "attack_ms": 6.2,
+    "release_ms": 124.2
+  },
+  "reverb": {
+    "room_size": 0.32,
+    "damping": 0.55,
+    "wet_level": 0.1,
+    "dry_level": 0.93,
+    "width": 0.9
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

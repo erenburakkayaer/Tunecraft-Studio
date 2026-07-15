@@ -1,0 +1,32 @@
+{
+  "id": "motive",
+  "name": "Motive",
+  "emoji": "🌀",
+  "genre": "Türkçe Hip-Hop / Alternatif",
+  "description": "Atmosferik ve yaratıcı. Orta reverb, sıcak tonlar, yumuşak kompresyon ile özgün akış.",
+  "retune_speed": 0.12,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": 1.0,
+    "mid_peak_hz": 600,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -18.0,
+    "ratio": 2.5,
+    "attack_ms": 25.0,
+    "release_ms": 350.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.55,
+    "wet_level": 0.22,
+    "dry_level": 0.82,
+    "width": 0.8
+  },
+  "tags": ["türkçe", "alternatif", "atmosfer", "yaratıcı", "akış"]
+}

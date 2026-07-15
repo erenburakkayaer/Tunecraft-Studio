@@ -1,0 +1,32 @@
+{
+  "id": "heijan",
+  "name": "Heijan",
+  "emoji": "🌊",
+  "genre": "Türkçe Trap / Duygusal",
+  "description": "Duygusal derinlik ve trap ritmi. Orta seviye auto-tune, geniş reverb sahne, melankolik atmosfer.",
+  "retune_speed": 0.42,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 90,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 700,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.5,
+    "attack_ms": 14.0,
+    "release_ms": 220.0
+  },
+  "reverb": {
+    "room_size": 0.5,
+    "damping": 0.48,
+    "wet_level": 0.3,
+    "dry_level": 0.87,
+    "width": 0.9
+  },
+  "tags": ["türkçe", "duygusal", "trap", "melankoli", "melodic"]
+}

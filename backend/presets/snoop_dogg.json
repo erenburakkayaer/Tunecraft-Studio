@@ -1,0 +1,37 @@
+{
+  "id": "snoop_dogg",
+  "name": "Snoop Dogg",
+  "emoji": "🌟",
+  "genre": "Boom Bap / Old School",
+  "description": "Snoop Dogg tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.01,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.7,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 0.2,
+    "mid_peak_q": 0.89
+  },
+  "compression": {
+    "threshold_db": -13.9,
+    "ratio": 3.4,
+    "attack_ms": 15.7,
+    "release_ms": 248.5
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.42,
+    "wet_level": 0.07,
+    "dry_level": 0.83,
+    "width": 0.97
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

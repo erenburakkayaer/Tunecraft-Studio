@@ -1,0 +1,37 @@
+{
+  "id": "noisy",
+  "name": "Noisy",
+  "emoji": "🌊",
+  "genre": "Melodic / R&B",
+  "description": "Noisy tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.84,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 1.8,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 3.2,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.2,
+    "mid_peak_q": 0.95
+  },
+  "compression": {
+    "threshold_db": -12.4,
+    "ratio": 3.6,
+    "attack_ms": 20.6,
+    "release_ms": 253.9
+  },
+  "reverb": {
+    "room_size": 0.54,
+    "damping": 0.8,
+    "wet_level": 0.37,
+    "dry_level": 0.9,
+    "width": 0.97
+  },
+  "tags": [
+    "melodic",
+    "smooth",
+    "r&b",
+    "global"
+  ]
+}

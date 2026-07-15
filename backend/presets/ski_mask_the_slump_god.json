@@ -1,0 +1,37 @@
+{
+  "id": "ski_mask_the_slump_god",
+  "name": "Ski Mask The Slump God",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Ski Mask The Slump God tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.03,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 0.6,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.2,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": -0.9,
+    "mid_peak_q": 0.67
+  },
+  "compression": {
+    "threshold_db": -10.9,
+    "ratio": 3.3,
+    "attack_ms": 12.2,
+    "release_ms": 274.0
+  },
+  "reverb": {
+    "room_size": 0.34,
+    "damping": 0.69,
+    "wet_level": 0.14,
+    "dry_level": 0.71,
+    "width": 0.81
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "modd",
+  "name": "Modd",
+  "emoji": "💥",
+  "genre": "Rap / Trap",
+  "description": "Modd tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.63,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 2.9,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.7,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": -1.4,
+    "mid_peak_q": 0.74
+  },
+  "compression": {
+    "threshold_db": -16.5,
+    "ratio": 4.9,
+    "attack_ms": 17.0,
+    "release_ms": 169.8
+  },
+  "reverb": {
+    "room_size": 0.39,
+    "damping": 0.51,
+    "wet_level": 0.3,
+    "dry_level": 0.92,
+    "width": 0.76
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "global"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "big_sean",
+  "name": "Big Sean",
+  "emoji": "💫",
+  "genre": "Hip-Hop / Detroit",
+  "description": "Big Sean'ın Detroit GOOD Music enerjisi. Hafif auto-tune, temiz ve keskin vokal, punch'lı ve modern hip-hop zinciri.",
+  "retune_speed": 0.3,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.0,
+    "attack_ms": 8.0,
+    "release_ms": 160.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.7,
+    "wet_level": 0.18,
+    "dry_level": 0.9,
+    "width": 0.85
+  },
+  "tags": ["hip-hop", "detroit", "good-music", "energetic", "global"]
+}

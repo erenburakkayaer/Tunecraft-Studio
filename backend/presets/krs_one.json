@@ -1,0 +1,37 @@
+{
+  "id": "krs_one",
+  "name": "KRS-One",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "KRS-One tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.64,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 3.3,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.92
+  },
+  "compression": {
+    "threshold_db": -10.6,
+    "ratio": 4.5,
+    "attack_ms": 13.9,
+    "release_ms": 130.2
+  },
+  "reverb": {
+    "room_size": 0.13,
+    "damping": 0.85,
+    "wet_level": 0.25,
+    "dry_level": 0.95,
+    "width": 0.93
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

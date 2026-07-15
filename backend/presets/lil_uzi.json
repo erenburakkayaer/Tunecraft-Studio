@@ -1,0 +1,32 @@
+{
+  "id": "lil_uzi",
+  "name": "Lil Uzi Vert",
+  "emoji": "👽",
+  "genre": "Hip-Hop / Hyperpop Trap",
+  "description": "Uzaylı ses tekstürü. Yüksek auto-tune, parlak tiz, manic enerji ile unique vocal identity.",
+  "retune_speed": 0.75,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 4.0,
+    "mid_peak_hz": 400,
+    "mid_peak_gain_db": -1.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.5,
+    "attack_ms": 5.0,
+    "release_ms": 100.0
+  },
+  "reverb": {
+    "room_size": 0.45,
+    "damping": 0.5,
+    "wet_level": 0.28,
+    "dry_level": 0.82,
+    "width": 0.92
+  },
+  "tags": ["auto-tune", "hyperpop", "uzaylı", "enerji", "unique"]
+}

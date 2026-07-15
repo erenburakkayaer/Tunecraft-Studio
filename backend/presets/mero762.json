@@ -1,0 +1,37 @@
+{
+  "id": "mero762",
+  "name": "Mero762",
+  "emoji": "🔪",
+  "genre": "Drill",
+  "description": "Mero762 tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.23,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.4,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -1.9,
+    "mid_peak_q": 0.62
+  },
+  "compression": {
+    "threshold_db": -14.8,
+    "ratio": 6.4,
+    "attack_ms": 11.5,
+    "release_ms": 170.0
+  },
+  "reverb": {
+    "room_size": 0.36,
+    "damping": 0.7,
+    "wet_level": 0.24,
+    "dry_level": 0.81,
+    "width": 0.7
+  },
+  "tags": [
+    "drill",
+    "bass",
+    "dark",
+    "global"
+  ]
+}

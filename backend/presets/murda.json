@@ -1,0 +1,32 @@
+{
+  "id": "murda",
+  "name": "Murda",
+  "emoji": "🌍",
+  "genre": "Türkçe Trap / Afrobeats",
+  "description": "Uluslararası Türk trap sesi. Yumuşak auto-tune, geniş stereo alan, melodic hooks.",
+  "retune_speed": 0.45,
+  "scale": "C Majör",
+  "eq": {
+    "low_shelf_hz": 85,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -16.0,
+    "ratio": 3.5,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.4,
+    "damping": 0.5,
+    "wet_level": 0.3,
+    "dry_level": 0.8,
+    "width": 0.9
+  },
+  "tags": ["türkçe", "trap", "melodic", "international", "hooks"]
+}

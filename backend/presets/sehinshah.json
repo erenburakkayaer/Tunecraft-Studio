@@ -1,0 +1,32 @@
+{
+  "id": "sehinshah",
+  "name": "Şehinşah",
+  "emoji": "👑",
+  "genre": "Türkçe Rap / Trap",
+  "description": "Agresif ve dominant tarz. Güçlü low-mid punch, sert saldırı kompresyonu, minimal ama etkili reverb.",
+  "retune_speed": 0.15,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 400,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 5.5,
+    "attack_ms": 6.0,
+    "release_ms": 130.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.75,
+    "wet_level": 0.1,
+    "dry_level": 0.92,
+    "width": 0.55
+  },
+  "tags": ["türkçe", "trap", "agresif", "dominant", "punch"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "badshah",
+  "name": "Badshah",
+  "emoji": "👑",
+  "genre": "Desi Hip-Hop / Bollywood Rap",
+  "description": "Badshah'ın enerjik Hint hip-hop sesi. Hızlı auto-tune, parlak EQ, geniş Bollywood atmosferi ve party estetiği.",
+  "retune_speed": 0.72,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 4.0,
+    "mid_peak_hz": 2500,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 4.0,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.55,
+    "damping": 0.45,
+    "wet_level": 0.38,
+    "dry_level": 0.85,
+    "width": 0.92
+  },
+  "tags": ["desi", "hindi", "bollywood", "auto-tune", "party", "global"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "berkay_duman",
+  "name": "Berkay Duman",
+  "emoji": "🎵",
+  "genre": "Türkçe Melodic Rap / Pop",
+  "description": "Berkay Duman'ın pürüzsüz ve melodik Türkçe sesi. Orta auto-tune, parlak EQ ve dengeli atmosferik reverb.",
+  "retune_speed": 0.58,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 3.5,
+    "attack_ms": 15.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.38,
+    "damping": 0.6,
+    "wet_level": 0.25,
+    "dry_level": 0.88,
+    "width": 0.82
+  },
+  "tags": ["türkçe", "melodic", "pop", "smooth", "auto-tune"]
+}

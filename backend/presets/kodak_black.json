@@ -1,0 +1,37 @@
+{
+  "id": "kodak_black",
+  "name": "Kodak Black",
+  "emoji": "🚀",
+  "genre": "Boom Bap / Old School",
+  "description": "Kodak Black tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.01,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 0.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 1.1,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.86
+  },
+  "compression": {
+    "threshold_db": -10.6,
+    "ratio": 2.5,
+    "attack_ms": 24.9,
+    "release_ms": 165.5
+  },
+  "reverb": {
+    "room_size": 0.21,
+    "damping": 0.41,
+    "wet_level": 0.11,
+    "dry_level": 0.86,
+    "width": 0.9
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

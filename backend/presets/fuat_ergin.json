@@ -1,0 +1,32 @@
+{
+  "id": "fuat_ergin",
+  "name": "Fuat Ergin",
+  "emoji": "🌊",
+  "genre": "Melodic Trap / Türkçe Rap",
+  "description": "Fuat Ergin'in duygusal ve akıcı Türkçe melodic sesi. Orta auto-tune, sıcak EQ ve dengeli atmosferik vokal zinciri.",
+  "retune_speed": 0.48,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 1.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 3.5,
+    "attack_ms": 10.0,
+    "release_ms": 250.0
+  },
+  "reverb": {
+    "room_size": 0.42,
+    "damping": 0.58,
+    "wet_level": 0.24,
+    "dry_level": 0.9,
+    "width": 0.85
+  },
+  "tags": ["türkçe", "melodic-trap", "auto-tune", "duygusal", "smooth"]
+}

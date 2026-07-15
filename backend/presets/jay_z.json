@@ -1,0 +1,32 @@
+{
+  "id": "jay_z",
+  "name": "Jay-Z",
+  "emoji": "👑",
+  "genre": "East Coast Hip-Hop / Brooklyn",
+  "description": "Jay-Z'nin Brooklyn dominansı. Sıfır auto-tune, smooth ve otoriter teslimat, net ve güçlü vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 4.5,
+    "attack_ms": 6.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.28,
+    "damping": 0.75,
+    "wet_level": 0.12,
+    "dry_level": 0.93,
+    "width": 0.75
+  },
+  "tags": ["east-coast", "hip-hop", "brooklyn", "dominant", "legend", "global"]
+}

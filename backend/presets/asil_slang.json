@@ -1,0 +1,32 @@
+{
+  "id": "asil_slang",
+  "name": "Asil Slang",
+  "emoji": "🎙️",
+  "genre": "Türkçe Rap / Street",
+  "description": "Asil Slang'ın agresif ve ham Türkçe street rap sesi. Minimal auto-tune, sert kompresyon, direkt ve punch'lı vokal zinciri.",
+  "retune_speed": 0.08,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 5.5,
+    "attack_ms": 5.0,
+    "release_ms": 140.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.82,
+    "wet_level": 0.12,
+    "dry_level": 0.92,
+    "width": 0.6
+  },
+  "tags": ["türkçe", "street", "raw", "agresif", "rap"]
+}

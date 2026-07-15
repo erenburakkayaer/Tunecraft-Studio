@@ -1,0 +1,37 @@
+{
+  "id": "megan_thee_stallion",
+  "name": "Megan Thee Stallion",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Megan Thee Stallion tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.59,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.7,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 1.8,
+    "mid_peak_hz": 1000,
+    "mid_peak_gain_db": 0.7,
+    "mid_peak_q": 0.75
+  },
+  "compression": {
+    "threshold_db": -14.8,
+    "ratio": 4.2,
+    "attack_ms": 18.8,
+    "release_ms": 128.8
+  },
+  "reverb": {
+    "room_size": 0.34,
+    "damping": 0.51,
+    "wet_level": 0.39,
+    "dry_level": 0.74,
+    "width": 0.8
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

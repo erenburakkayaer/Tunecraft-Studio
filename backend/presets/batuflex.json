@@ -1,0 +1,32 @@
+{
+  "id": "batuflex",
+  "name": "Batuflex",
+  "emoji": "🌙",
+  "genre": "Türkçe Trap / Lo-fi",
+  "description": "Gecelerin sesi. Havadar ve lofi trap — hafif auto-tune, geniş yavaş reverb, rahat akış.",
+  "retune_speed": 0.28,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 95,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": -0.8,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": 1.0,
+    "mid_peak_q": 0.65
+  },
+  "compression": {
+    "threshold_db": -18.0,
+    "ratio": 2.5,
+    "attack_ms": 20.0,
+    "release_ms": 350.0
+  },
+  "reverb": {
+    "room_size": 0.58,
+    "damping": 0.42,
+    "wet_level": 0.38,
+    "dry_level": 0.75,
+    "width": 0.95
+  },
+  "tags": ["türkçde", "lofi", "gece", "trap", "rahat"]
+}

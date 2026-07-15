@@ -1,0 +1,32 @@
+{
+  "id": "2_chainz",
+  "name": "2 Chainz",
+  "emoji": "🔗",
+  "genre": "Trap",
+  "description": "2 Chainz'in derin, bas ağırlıklı ve punch'lı trap vokal zinciri.",
+  "retune_speed": 0.45,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 5.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 250,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 5.5,
+    "attack_ms": 8.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.35,
+    "damping": 0.75,
+    "wet_level": 0.18,
+    "dry_level": 0.92,
+    "width": 0.6
+  },
+  "tags": ["trap", "bass", "deep", "global"]
+}

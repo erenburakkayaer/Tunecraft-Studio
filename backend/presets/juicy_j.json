@@ -1,0 +1,32 @@
+{
+  "id": "juicy_j",
+  "name": "Juicy J",
+  "emoji": "🍋",
+  "genre": "Memphis Rap / Trap",
+  "description": "Juicy J'nin Three 6 Mafia Memphis sesi. Orta auto-tune, ağır ve hypnotic teslimat, karanlık trap vokal zinciri.",
+  "retune_speed": 0.32,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.5,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -12.0,
+    "ratio": 5.0,
+    "attack_ms": 6.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.38,
+    "damping": 0.65,
+    "wet_level": 0.18,
+    "dry_level": 0.9,
+    "width": 0.78
+  },
+  "tags": ["memphis", "trap", "three-6-mafia", "hypnotic", "karanlık", "global"]
+}

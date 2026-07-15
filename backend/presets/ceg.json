@@ -1,0 +1,32 @@
+{
+  "id": "ceg",
+  "name": "Ceg",
+  "emoji": "🎯",
+  "genre": "Türkçe Rap / Street",
+  "description": "Ceg'in direkt ve sert Türkçe street rap sesi. Hafif auto-tune, güçlü kompresyon ve punch'lı vokal zinciri.",
+  "retune_speed": 0.18,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 2.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 5.5,
+    "attack_ms": 6.0,
+    "release_ms": 150.0
+  },
+  "reverb": {
+    "room_size": 0.28,
+    "damping": 0.75,
+    "wet_level": 0.14,
+    "dry_level": 0.92,
+    "width": 0.75
+  },
+  "tags": ["türkçe", "street", "rap", "trap", "direkt"]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "kendrick",
+  "name": "Kendrick Lamar",
+  "emoji": "👁️",
+  "genre": "Hip-Hop / Conscious",
+  "description": "Lirik üstadın şeffaf sesi. Minimal efekt, maksimum netlik — söz işçiliğini öne çıkar.",
+  "retune_speed": 0.05,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": 2.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -13.0,
+    "ratio": 4.0,
+    "attack_ms": 6.0,
+    "release_ms": 180.0
+  },
+  "reverb": {
+    "room_size": 0.22,
+    "damping": 0.82,
+    "wet_level": 0.09,
+    "dry_level": 0.94,
+    "width": 0.65
+  },
+  "tags": ["conscious", "lirik", "net", "güçlü", "artistry", "global"]
+}

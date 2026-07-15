@@ -1,0 +1,37 @@
+{
+  "id": "yung_ouzo",
+  "name": "Yung Ouzo",
+  "emoji": "🎙️",
+  "genre": "Boom Bap / Old School",
+  "description": "Yung Ouzo tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.05,
+  "scale": "G Majör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 1.1,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 0.9,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": 1.3,
+    "mid_peak_q": 0.68
+  },
+  "compression": {
+    "threshold_db": -14.0,
+    "ratio": 2.8,
+    "attack_ms": 23.7,
+    "release_ms": 197.5
+  },
+  "reverb": {
+    "room_size": 0.34,
+    "damping": 0.74,
+    "wet_level": 0.08,
+    "dry_level": 0.82,
+    "width": 0.93
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "global"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "schoolboy_q",
+  "name": "Schoolboy Q",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Schoolboy Q tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.6,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 120,
+    "low_shelf_gain_db": 3.3,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.9,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -1.8,
+    "mid_peak_q": 0.95
+  },
+  "compression": {
+    "threshold_db": -11.5,
+    "ratio": 5.5,
+    "attack_ms": 19.5,
+    "release_ms": 220.4
+  },
+  "reverb": {
+    "room_size": 0.3,
+    "damping": 0.74,
+    "wet_level": 0.24,
+    "dry_level": 0.79,
+    "width": 0.74
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

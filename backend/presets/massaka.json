@@ -1,0 +1,32 @@
+{
+  "id": "massaka",
+  "name": "Massaka",
+  "emoji": "🏋️",
+  "genre": "Türkçe Trap / Agresif",
+  "description": "Güç ve dominasyon. Yüksek bas boost, sert kompresyon, minimal ama tok reverb.",
+  "retune_speed": 0.22,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 70,
+    "low_shelf_gain_db": 5.0,
+    "high_shelf_hz": 10500,
+    "high_shelf_gain_db": 2.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -2.0,
+    "mid_peak_q": 0.9
+  },
+  "compression": {
+    "threshold_db": -11.0,
+    "ratio": 7.0,
+    "attack_ms": 4.0,
+    "release_ms": 80.0
+  },
+  "reverb": {
+    "room_size": 0.2,
+    "damping": 0.78,
+    "wet_level": 0.1,
+    "dry_level": 0.9,
+    "width": 0.6
+  },
+  "tags": ["türkçe", "güç", "agresif", "trap", "dominant"]
+}

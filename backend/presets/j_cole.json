@@ -1,0 +1,32 @@
+{
+  "id": "j_cole",
+  "name": "J. Cole",
+  "emoji": "📖",
+  "genre": "Hip-Hop / Conscious",
+  "description": "Dreamville'in kalemi. Storytelling odaklı vocal — sıfıra yakın auto-tune, yüksek clarity, sözlere adanmış ses.",
+  "retune_speed": 0.04,
+  "scale": "Kromatik (tüm notalar)",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 9000,
+    "high_shelf_gain_db": 2.8,
+    "mid_peak_hz": 1800,
+    "mid_peak_gain_db": 2.8,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.5,
+    "attack_ms": 15.0,
+    "release_ms": 240.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.78,
+    "wet_level": 0.11,
+    "dry_level": 0.93,
+    "width": 0.65
+  },
+  "tags": ["conscious", "storytelling", "net", "güçlü", "legend", "global"]
+}

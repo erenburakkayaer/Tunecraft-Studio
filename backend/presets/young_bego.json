@@ -1,0 +1,37 @@
+{
+  "id": "young_bego",
+  "name": "Young Bego",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Young Bego tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.79,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 60,
+    "low_shelf_gain_db": 3.9,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.3,
+    "mid_peak_hz": 2000,
+    "mid_peak_gain_db": -1.5,
+    "mid_peak_q": 0.93
+  },
+  "compression": {
+    "threshold_db": -13.2,
+    "ratio": 5.3,
+    "attack_ms": 7.7,
+    "release_ms": 148.6
+  },
+  "reverb": {
+    "room_size": 0.12,
+    "damping": 0.81,
+    "wet_level": 0.27,
+    "dry_level": 0.9,
+    "width": 0.58
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "global"
+  ]
+}

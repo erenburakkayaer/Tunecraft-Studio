@@ -1,0 +1,37 @@
+{
+  "id": "takeoff",
+  "name": "Takeoff",
+  "emoji": "🔥",
+  "genre": "Rap / Trap",
+  "description": "Takeoff tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.46,
+  "scale": "D Majör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 3.6,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": 2.5,
+    "mid_peak_hz": 500,
+    "mid_peak_gain_db": -0.4,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -14.9,
+    "ratio": 4.2,
+    "attack_ms": 6.4,
+    "release_ms": 125.2
+  },
+  "reverb": {
+    "room_size": 0.48,
+    "damping": 0.57,
+    "wet_level": 0.24,
+    "dry_level": 0.92,
+    "width": 0.68
+  },
+  "tags": [
+    "trap",
+    "modern",
+    "auto-tune",
+    "türkçe"
+  ]
+}

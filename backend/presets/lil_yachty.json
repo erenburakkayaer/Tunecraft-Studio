@@ -1,0 +1,37 @@
+{
+  "id": "lil_yachty",
+  "name": "Lil Yachty",
+  "emoji": "🎤",
+  "genre": "Boom Bap / Old School",
+  "description": "Lil Yachty tarzında profesyonel olarak ayarlanmış vokal zinciri.",
+  "retune_speed": 0.02,
+  "scale": "E Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 1.5,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 1.1,
+    "mid_peak_hz": 1500,
+    "mid_peak_gain_db": -1.8,
+    "mid_peak_q": 0.83
+  },
+  "compression": {
+    "threshold_db": -13.3,
+    "ratio": 3.2,
+    "attack_ms": 15.0,
+    "release_ms": 146.1
+  },
+  "reverb": {
+    "room_size": 0.18,
+    "damping": 0.86,
+    "wet_level": 0.12,
+    "dry_level": 0.81,
+    "width": 0.76
+  },
+  "tags": [
+    "boom-bap",
+    "classic",
+    "raw",
+    "türkçe"
+  ]
+}

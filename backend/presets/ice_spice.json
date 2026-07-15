@@ -1,0 +1,32 @@
+{
+  "id": "ice_spice",
+  "name": "Ice Spice",
+  "emoji": "🌶️",
+  "genre": "NY Drill / Bronx",
+  "description": "Ice Spice'ın Bronx NY drill enerjisi. Minimal auto-tune, keskin kadın presence, punch'lı ve direkt vokal zinciri.",
+  "retune_speed": 0.12,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 100,
+    "low_shelf_gain_db": 2.5,
+    "high_shelf_hz": 12000,
+    "high_shelf_gain_db": 4.0,
+    "mid_peak_hz": 3000,
+    "mid_peak_gain_db": 3.0,
+    "mid_peak_q": 0.85
+  },
+  "compression": {
+    "threshold_db": -10.0,
+    "ratio": 5.5,
+    "attack_ms": 5.0,
+    "release_ms": 130.0
+  },
+  "reverb": {
+    "room_size": 0.25,
+    "damping": 0.8,
+    "wet_level": 0.12,
+    "dry_level": 0.93,
+    "width": 0.82
+  },
+  "tags": ["ny-drill", "bronx", "female", "agresif", "raw", "global"]
+}

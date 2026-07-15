@@ -1,0 +1,32 @@
+{
+  "id": "drake",
+  "name": "Drake",
+  "emoji": "🦉",
+  "genre": "Hip-Hop / R&B",
+  "description": "Toronto'nun sesi. Smooth melodic rap — hafif auto-tune, zengin reverb, duygusal ama swag dolu.",
+  "retune_speed": 0.35,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 90,
+    "low_shelf_gain_db": 3.0,
+    "high_shelf_hz": 10000,
+    "high_shelf_gain_db": 3.0,
+    "mid_peak_hz": 700,
+    "mid_peak_gain_db": 1.5,
+    "mid_peak_q": 0.7
+  },
+  "compression": {
+    "threshold_db": -15.0,
+    "ratio": 3.5,
+    "attack_ms": 12.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.5,
+    "damping": 0.45,
+    "wet_level": 0.32,
+    "dry_level": 0.86,
+    "width": 0.92
+  },
+  "tags": ["melodic", "toronto", "r&b", "swag", "emotional", "global"]
+}

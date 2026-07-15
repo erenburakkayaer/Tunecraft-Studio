@@ -1,0 +1,32 @@
+{
+  "id": "travis_scott",
+  "name": "Travis Scott",
+  "emoji": "🌵",
+  "genre": "Trap / Psych Rap",
+  "description": "Astroworld'ün sisi — ağır reverb, yavaş pitch glide ve derin space hissi.",
+  "retune_speed": 0.35,
+  "scale": "A Minör",
+  "eq": {
+    "low_shelf_hz": 80,
+    "low_shelf_gain_db": 4.0,
+    "high_shelf_hz": 8000,
+    "high_shelf_gain_db": -2.0,
+    "mid_peak_hz": 300,
+    "mid_peak_gain_db": -3.0,
+    "mid_peak_q": 0.8
+  },
+  "compression": {
+    "threshold_db": -18.0,
+    "ratio": 4.0,
+    "attack_ms": 10.0,
+    "release_ms": 200.0
+  },
+  "reverb": {
+    "room_size": 0.85,
+    "damping": 0.4,
+    "wet_level": 0.45,
+    "dry_level": 0.6,
+    "width": 1.0
+  },
+  "tags": ["trap", "dark", "space", "autotune"]
+}
